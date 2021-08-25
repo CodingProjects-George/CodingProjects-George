@@ -1,0 +1,16 @@
+from discord.ext import commands
+
+client = commands.Bot(command_prefix='>')
+
+
+
+@client.command()
+async def point(ctx):
+    await ctx.send('Here is the message that will be printed in discord')# Type here what you want the bot to type in the discord channel
+
+@client.command()
+async def marko(ctx):
+    await ctx.send(f'Polo{round(client.latency * 1000)}ms')# You can also make the bot type in the latency of the program when it types the message
+
+
+client.run('')# Here you will paste your bot id
