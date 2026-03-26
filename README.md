@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodingProjects-George
      Im 14 years old!
 - 👀 I’m interested in learning python and web development!
-- 🌱 I’m currently learning discord bot making
+- 🌱 I’m currently learning C#
 - 💞️ I’m not looking to collaborate...
 - 📫 How to reach me 
 
