@@ -2,7 +2,7 @@
      Im 14 years old!
 - 👀 I’m interested in learning python and web development!
 - 🌱 I’m currently learning C#
-- 💞️ I’m not looking to collaborate...
+- 💞️ I’m looking to collaborate...
 - 📫 How to reach me 
 
 <!---
